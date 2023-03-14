@@ -1,0 +1,25 @@
+body{
+    background: url('https://i.pinimg.com/originals/ff/7f/d6/ff7fd628a8b5d3728a247a63389919d3.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+nav img{
+  width: 200px;
+  height: 90px;
+  background-color: transparent;
+}
+.row .card{
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: black;
+}
+.row .card-body{
+  color: #fff;
+}
+.navbar-nav li a{
+  color: #fff;
+}
+
